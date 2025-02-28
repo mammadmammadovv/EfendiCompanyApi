@@ -2,6 +2,19 @@
 
 public class Service
 {
+    public Service()
+    {
+        
+    }
+    public Service(string title, string description, string fullDescription, string imageUrl, string imageDetailsUrl)
+    {
+        Title = title;
+        Description = description;
+        FullDescription = fullDescription;
+        ImageUrl = imageUrl;
+        ImageDetailsUrl = imageDetailsUrl;
+    }
+
     public int Id { get; set; }
     public string Title { get; set; }
     public string Description { get; set; }

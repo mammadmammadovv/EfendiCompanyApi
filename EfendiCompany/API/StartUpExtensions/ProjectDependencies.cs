@@ -36,8 +36,6 @@ namespace Api.Infrastructure.StartUpExtensions
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-            services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-
             return services;
         }
     }
