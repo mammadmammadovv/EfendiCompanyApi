@@ -55,7 +55,6 @@ public class ContactCommand(IUnitOfWork _unitOfWork) : IContactCommand
             string _addSql = $@"UPDATE Contacts
                                 Set Title = '{model.Title}',
                                 Description = '{model.Description}',
-                                Address = '{model.Address}',
                                 Email = '{model.Email}',
                                 PhoneNumber = '{model.PhoneNumber}',
                                 FormTitle = '{model.FormTitle}'
