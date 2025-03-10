@@ -1,4 +1,5 @@
 ﻿using Core.Constants;
+using GPS.Application.Services;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using NetCore.AutoRegisterDi;
 using Repository.Infrastructure;
@@ -13,7 +14,6 @@ namespace Api.Infrastructure.StartUpExtensions
         public static IServiceCollection AddProjectDependencies(this IServiceCollection services,
             IConfiguration configuration)
         {
-
             var repositoryAssembly = Assembly.GetAssembly(typeof(ServicesRepository));
 
             services.RegisterAssemblyPublicNonGenericClasses(repositoryAssembly)
@@ -35,7 +35,7 @@ namespace Api.Infrastructure.StartUpExtensions
                 .AsPublicImplementedInterfaces(ServiceLifetime.Scoped);
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+            services.AddSingleton<IEmailService, EmailService>();
             return services;
         }
     }
