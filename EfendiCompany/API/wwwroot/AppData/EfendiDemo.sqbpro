@@ -9,14 +9,26 @@ INSERT INTO Services(Title,Description,FullDescription,ImageUrl,ImageDetailsUrl)
 VALUES('Lorem','Ipsum','Dolor','Sit','Amet')
 
 
-CREATE TABLE &quot;Home&quot; (
+CREATE TABLE &quot;Settings&quot; (
 	&quot;Id&quot;	INTEGER NOT NULL UNIQUE,
-	&quot;SliderList&quot;	TEXT NULL,	
-	&quot;AdvantagesList&quot;	TEXT NULL,	
-	&quot;PackagesList&quot;	TEXT NULL,
-	&quot;ServicesList&quot;	TEXT NULL,	
+	&quot;Address&quot;	TEXT NULL,	
+	&quot;Email&quot;	TEXT NULL,	
+	&quot;PhoneNumber&quot;	TEXT NULL,
+	&quot;Fax&quot;	TEXT NULL,	
+	&quot;ZipCode&quot;	TEXT NULL,	
+	&quot;LogoUrl&quot;	TEXT NULL,
+	&quot;XUrl&quot;	TEXT NULL,	
+	&quot;FacebookUrl&quot;	TEXT NULL,	
+	&quot;InstagramUrl&quot;	TEXT NULL,
+	&quot;PinterestUrl&quot;	TEXT NULL,
+	&quot;YouTubeUrl&quot;	TEXT NULL,
+	&quot;LinkedinUrl&quot;	TEXT NULL,
 	PRIMARY KEY(&quot;Id&quot; AUTOINCREMENT)
 )
 
-insert into Home(SliderList,AdvantagesList,PackagesList,ServicesList)
-VALUES('1','2','3','4')</sql><current_tab id="0"/></tab_sql></sqlb_project>
+insert into Settings(Address,Email,PhoneNumber,Fax,ZipCode,LogoUrl
+,XUrl,FacebookUrl,InstagramUrl,PinterestUrl,YouTubeUrl,LinkedinUrl)
+VALUES('1','1','1','1','1','1','1','1','1','1','1','1')
+
+
+select * from Home</sql><current_tab id="0"/></tab_sql></sqlb_project>
