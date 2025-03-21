@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\startupextensions\\projectdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\repository\\cqrs\\queries\\blogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\queries\\blogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\blogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\blogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\service\\services\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +106,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDefinitionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\FileDefinitionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
+              "RelativeToolTip": "API\\Controllers\\FileDefinitionController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:37:28.068Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "API\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:17:00.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProjectDependencies.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\StartUpExtensions\\ProjectDependencies.cs",
               "RelativeDocumentMoniker": "API\\StartUpExtensions\\ProjectDependencies.cs",
@@ -110,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -118,12 +150,11 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T22:31:35.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T22:31:35.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
@@ -135,31 +166,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AboutUsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\AboutUsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AboutUsController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\AboutUsController.cs",
               "RelativeToolTip": "API\\Controllers\\AboutUsController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T09:21:08.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BlogsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BlogsController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\BlogsController.cs",
               "RelativeToolTip": "API\\Controllers\\BlogsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T09:21:06.657Z"
+              "WhenOpened": "2025-03-18T09:21:06.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AboutUsService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\AboutUsService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\AboutUsService.cs",
@@ -171,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\BlogService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\BlogService.cs",
@@ -183,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repositories\\BlogRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\BlogRepository.cs",
@@ -195,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AboutUsCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\AboutUsCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\AboutUsCommand.cs",
@@ -207,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AboutUsQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\AboutUsQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\AboutUsQuery.cs",
@@ -219,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ContactQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\ContactQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\ContactQuery.cs",
@@ -231,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "HomeQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\HomeQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\HomeQuery.cs",
@@ -243,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ServicesQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\ServicesQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\ServicesQuery.cs",
@@ -255,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BlogQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\BlogQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\BlogQuery.cs",
@@ -267,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ContactCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ContactCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ContactCommand.cs",
@@ -279,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\BlogCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\BlogCommand.cs",
@@ -291,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
@@ -303,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AboutUs.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\AboutUs.cs",
               "RelativeDocumentMoniker": "Core\\Models\\AboutUs.cs",
