@@ -57,8 +57,7 @@ public class ContactCommand(IUnitOfWork _unitOfWork) : IContactCommand
                                 Description = '{model.Description}',
                                 Email = '{model.Email}',
                                 PhoneNumber = '{model.PhoneNumber}',
-                                FormTitle = '{model.FormTitle}'
-                                WHERE Id = {model.Id}";
+                                FormTitle = '{model.FormTitle}'";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }

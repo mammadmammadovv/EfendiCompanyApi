@@ -45,15 +45,19 @@ CREATE TABLE &quot;Blogs&quot; (
 	&quot;CreatedDate&quot;	TEXT DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY(&quot;Id&quot; AUTOINCREMENT)
 );
-
-select * from Services
 
-select * from AboutUs
+select * from Services
 
-update AboutUs
-set Title = '{&quot;az&quot;:&quot;Haqqımızda&quot;,&quot;en&quot;:&quot;About Us&quot;,&quot;ru&quot;:&quot;О нас&quot;}'
-where id = 1
-
-{&quot;az&quot;:&quot;Haqqımızda&quot;,&quot;en&quot;:&quot;About Us&quot;,&quot;ru&quot;:&quot;О нас&quot;}
-
+update Services
+set Description = '{&quot;az&quot;:&quot;AUE AZ&quot;,&quot;en&quot;:&quot;AUE EN&quot;,&quot;ru&quot;:&quot;AUE RU&quot;}'
+where id = 8
+
+select * from AboutUs
+
+update AboutUs
+set Title = '{&quot;az&quot;:&quot;Haqqımızda&quot;,&quot;en&quot;:&quot;About Us&quot;,&quot;ru&quot;:&quot;О нас&quot;}'
+where id = 1
+
+{&quot;az&quot;:&quot;Haqqımızda&quot;,&quot;en&quot;:&quot;About Us&quot;,&quot;ru&quot;:&quot;О нас&quot;}
+
 [{&quot;id&quot;:1,&quot;name&quot;:&quot;Ali&quot;,&quot;surname&quot;:&quot;Ahmadov&quot;,&quot;imageUrl&quot;:&quot;https://localhost:5001/Pictures/passportBack.jpg&quot;},{&quot;id&quot;:2,&quot;name&quot;:&quot;Leyla&quot;,&quot;surname&quot;:&quot;Mammadova&quot;,&quot;imageUrl&quot;:&quot;https://localhost:5001/Pictures/passportBack.jpg&quot;}]</sql><current_tab id="0"/></tab_sql></sqlb_project>
