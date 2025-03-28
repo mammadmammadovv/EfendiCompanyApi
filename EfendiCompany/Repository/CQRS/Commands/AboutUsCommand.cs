@@ -56,7 +56,7 @@ public class AboutUsCommand(IUnitOfWork _unitOfWork) : IAboutUsCommand
                                 WhyUsDescription = '{model.WhyUsDescription}',
                                 WhyUsImageUrl = '{model.WhyUsImageUrl}',
                                 TeamMembers = '{model.TeamMembers}'
-                                WHERE Id = {model.Id}";
+                               ";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
