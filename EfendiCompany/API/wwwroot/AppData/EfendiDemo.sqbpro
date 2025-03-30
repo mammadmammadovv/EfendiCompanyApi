@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/user/Desktop/EfendiCompanyApi/EfendiCompany/API/wwwroot/AppData/EfendiDemo.db" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="4767"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT * from Settings
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/user/Desktop/EfendiCompanyApi/EfendiCompany/API/wwwroot/AppData/EfendiDemo.db" readonly="0" foreign_keys="0" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="0" synchronous="1"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3044"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,7:mainAboutUs"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">SELECT * from Products
+
+update Products
+set ParentProductName = ''
+where id = 1
 
 SELECT * FROM Services
                                        WHERE IsDeleted = 0
@@ -9,20 +13,14 @@ INSERT INTO Services(Title,Description,FullDescription,ImageUrl,ImageDetailsUrl)
 VALUES('Lorem','Ipsum','Dolor','Sit','Amet')
 
 
-CREATE TABLE &quot;Settings&quot; (
+CREATE TABLE &quot;Products&quot; (
 	&quot;Id&quot;	INTEGER NOT NULL UNIQUE,
-	&quot;Address&quot;	TEXT NULL,	
-	&quot;Email&quot;	TEXT NULL,	
-	&quot;PhoneNumber&quot;	TEXT NULL,
-	&quot;Fax&quot;	TEXT NULL,	
-	&quot;ZipCode&quot;	TEXT NULL,	
-	&quot;LogoUrl&quot;	TEXT NULL,
-	&quot;XUrl&quot;	TEXT NULL,	
-	&quot;FacebookUrl&quot;	TEXT NULL,	
-	&quot;InstagramUrl&quot;	TEXT NULL,
-	&quot;PinterestUrl&quot;	TEXT NULL,
-	&quot;YouTubeUrl&quot;	TEXT NULL,
-	&quot;LinkedinUrl&quot;	TEXT NULL,
+	&quot;ParentProductId&quot; INTEGER NULL,
+	&quot;Title&quot;	TEXT NULL,	
+	&quot;Description&quot;	TEXT NULL,	
+	&quot;ImageUrl&quot; TEXT NULL,
+	&quot;IsDeleted&quot;	INTEGER NOT NULL DEFAULT 0,
+	&quot;CreatedDate&quot;	TEXT DEFAULT CURRENT_TIMESTAMP,
 	PRIMARY KEY(&quot;Id&quot; AUTOINCREMENT)
 )
 
@@ -46,10 +44,10 @@ CREATE TABLE &quot;Blogs&quot; (
 	PRIMARY KEY(&quot;Id&quot; AUTOINCREMENT)
 );
 
-select * from Services
-
-update Services
-set Description = '{&quot;az&quot;:&quot;AUE AZ&quot;,&quot;en&quot;:&quot;AUE EN&quot;,&quot;ru&quot;:&quot;AUE RU&quot;}'
+select * from Services
+
+update Services
+set Description = '{&quot;az&quot;:&quot;AUE AZ&quot;,&quot;en&quot;:&quot;AUE EN&quot;,&quot;ru&quot;:&quot;AUE RU&quot;}'
 where id = 8
 
 select * from AboutUs
