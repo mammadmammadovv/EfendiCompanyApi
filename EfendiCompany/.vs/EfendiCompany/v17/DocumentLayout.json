@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|solutionrelative:service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\homecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\homecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,10 +98,6 @@
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\filedefinitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\user\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -137,7 +145,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,20 +161,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\EmailService.cs",
-              "RelativeToolTip": "Service\\Services\\EmailService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ImageService.cs",
+              "RelativeToolTip": "Service\\Services\\ImageService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T13:31:42.871Z",
+              "WhenOpened": "2025-04-01T16:13:18.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "HomeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "RelativeToolTip": "Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:31:42.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmailController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\EmailController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\EmailController.cs",
@@ -179,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ServicesService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ServicesService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\ServicesService.cs",
@@ -191,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
@@ -203,7 +224,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDefinitionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\FileDefinitionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
+              "RelativeToolTip": "API\\Controllers\\FileDefinitionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:37:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "Service\\Services\\EmailService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:31:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
@@ -215,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ProductQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\ProductQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\ProductQuery.cs",
@@ -227,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ProductCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ProductCommand.cs",
@@ -240,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\ProductService.cs",
@@ -252,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
@@ -264,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ServicesCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ServicesCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ServicesCommand.cs",
@@ -277,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "SettingCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\SettingCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\SettingCommand.cs",
@@ -289,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AddressBinder.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\SourceServer\\f831705b70bba1ae7ee3e4c963c25ad318562f3c519155e6ec763224f133c444\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\f831705b70bba1ae7ee3e4c963c25ad318562f3c519155e6ec763224f133c444\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
@@ -301,19 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FileDefinitionController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\FileDefinitionController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\FileDefinitionController.cs",
-              "RelativeToolTip": "API\\Controllers\\FileDefinitionController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T15:37:28.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ServicesController.cs",
@@ -325,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ProjectDependencies.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\StartUpExtensions\\ProjectDependencies.cs",
               "RelativeDocumentMoniker": "API\\StartUpExtensions\\ProjectDependencies.cs",
@@ -337,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -349,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
@@ -361,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AboutUsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\AboutUsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AboutUsController.cs",
@@ -373,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "BlogsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BlogsController.cs",
@@ -385,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "AboutUsService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\AboutUsService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\AboutUsService.cs",
@@ -397,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\BlogService.cs",
               "RelativeDocumentMoniker": "Service\\Services\\BlogService.cs",
@@ -409,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repositories\\BlogRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\BlogRepository.cs",
@@ -421,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AboutUsCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\AboutUsCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\AboutUsCommand.cs",
@@ -433,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "AboutUsQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\AboutUsQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\AboutUsQuery.cs",
@@ -445,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ContactQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\ContactQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\ContactQuery.cs",
@@ -457,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "HomeQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\HomeQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\HomeQuery.cs",
@@ -469,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ServicesQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\ServicesQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\ServicesQuery.cs",
@@ -481,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "BlogQuery.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Queries\\BlogQuery.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Queries\\BlogQuery.cs",
@@ -493,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ContactCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ContactCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ContactCommand.cs",
@@ -505,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "BlogCommand.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\BlogCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\BlogCommand.cs",
@@ -517,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Blog.cs",
@@ -529,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AboutUs.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\AboutUs.cs",
               "RelativeDocumentMoniker": "Core\\Models\\AboutUs.cs",
