@@ -40,7 +40,7 @@ public class EmailService : IEmailService
                 From = new MailAddress(_senderEmail),
                 Subject = subject,
                 Body = body,
-                IsBodyHtml = true,
+                IsBodyHtml = false,
             };
 
             mailMessage.To.Add(recipientEmail);

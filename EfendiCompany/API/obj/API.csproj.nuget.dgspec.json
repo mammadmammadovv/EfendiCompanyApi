@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj": {}
+    "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj": {
+    "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\obj\\",
+        "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Mamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +26,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -32,11 +34,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
+              "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
               },
-              "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj"
+              "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj"
               }
             }
           }
@@ -51,7 +53,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -101,24 +103,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
+    "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Mamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,6 +129,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -145,7 +149,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -172,24 +176,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj": {
+    "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Mamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -197,6 +202,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -204,8 +210,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
+              "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
               }
             }
           }
@@ -220,7 +226,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -255,24 +261,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
+    "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\obj\\",
+        "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Mamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -280,6 +287,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -287,11 +295,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
+              "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
               },
-              "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj"
+              "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repository.csproj"
               }
             }
           }
@@ -306,7 +314,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -333,7 +341,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
