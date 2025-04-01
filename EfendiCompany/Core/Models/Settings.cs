@@ -15,5 +15,7 @@ public class Settings
     public string PinterestUrl { get; set; }
     public string YouTubeUrl { get; set; }
     public string LinkedinUrl { get; set; }
+    public string WorkingHoursStart { get; set; }
+    public string WorkingHoursEnd { get; set; }
 }
 

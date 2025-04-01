@@ -26,7 +26,9 @@ public class SettingCommand(IUnitOfWork _unitOfWork) : ISettingCommand
                                 InstagramUrl = '{model.InstagramUrl}',
                                 PinterestUrl = '{model.PinterestUrl}',
                                 YouTubeUrl = '{model.YouTubeUrl}',
-                                LinkedinUrl = '{model.LinkedinUrl}'";
+                                LinkedinUrl = '{model.LinkedinUrl}',
+                                WorkingHoursStart = '{model.WorkingHoursStart}',
+                                WorkingHoursEnd = '{model.WorkingHoursEnd}'";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
