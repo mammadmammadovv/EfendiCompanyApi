@@ -18,7 +18,9 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                                 Set SliderList = '{model.SliderList}',
                                 AdvantagesList = '{model.AdvantagesList}',
                                 PackagesList = '{model.PackagesList}',
-                                ServicesList = '{model.ServicesList}'
+                                ServicesList = '{model.ServicesList}',
+                                StatisticsList = '{model.StatisticsList}',
+                                PricesList = '{model.PricesList}'
                                 ";
 
             await _unitOfWork.GetConnection().QueryAsync(sql, null, _unitOfWork.GetTransaction());

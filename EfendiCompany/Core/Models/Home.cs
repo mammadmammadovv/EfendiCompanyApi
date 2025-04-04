@@ -7,5 +7,7 @@ public class Home
     public string AdvantagesList { get; set; }
     public string PackagesList { get; set; }
     public string ServicesList { get; set; }
+    public string StatisticsList { get; set; }
+    public string PricesList { get; set; }
 }
 
