@@ -21,6 +21,7 @@ public class SettingCommand(IUnitOfWork _unitOfWork) : ISettingCommand
                                 Fax = '{model.Fax}',
                                 ZipCode = '{model.ZipCode}',
                                 LogoUrl = '{model.LogoUrl}',
+                                WhiteLogoUrl = '{model.WhiteLogoUrl}',
                                 XUrl = '{model.XUrl}',
                                 FacebookUrl = '{model.FacebookUrl}',
                                 InstagramUrl = '{model.InstagramUrl}',

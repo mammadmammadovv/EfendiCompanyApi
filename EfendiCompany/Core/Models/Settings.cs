@@ -9,6 +9,7 @@ public class Settings
     public string Fax { get; set; }
     public string ZipCode { get; set; }
     public string LogoUrl { get; set; }
+    public string WhiteLogoUrl { get; set; }
     public string XUrl { get; set; }
     public string FacebookUrl { get; set; }
     public string InstagramUrl { get; set; }
