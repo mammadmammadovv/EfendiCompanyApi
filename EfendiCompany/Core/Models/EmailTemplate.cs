@@ -7,5 +7,6 @@ public class EmailTemplate
     public string PhoneNumber { get; set; }
     public string Subject { get; set; }
     public string Body { get; set; }
+    public string Category { get; set; }
 }
 
