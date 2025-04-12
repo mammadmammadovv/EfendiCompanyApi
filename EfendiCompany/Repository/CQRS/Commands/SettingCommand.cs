@@ -29,7 +29,11 @@ public class SettingCommand(IUnitOfWork _unitOfWork) : ISettingCommand
                                 YouTubeUrl = '{model.YouTubeUrl}',
                                 LinkedinUrl = '{model.LinkedinUrl}',
                                 WorkingHoursStart = '{model.WorkingHoursStart}',
-                                WorkingHoursEnd = '{model.WorkingHoursEnd}'";
+                                WorkingHoursEnd = '{model.WorkingHoursEnd}',
+                                WhyUsTitle = '{model.WhyUsTitle}',
+                                WhyUsDescription = '{model.WhyUsDescription}',
+                                WhyUsImageUrl = '{model.WhyUsImageUrl}',
+                                YoutubeVideoUrl = '{model.YoutubeVideoUrl}'";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }

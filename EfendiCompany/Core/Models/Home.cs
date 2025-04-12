@@ -9,5 +9,6 @@ public class Home
     public string ServicesList { get; set; }
     public string StatisticsList { get; set; }
     public string PricesList { get; set; }
+    public string Sign { get; set; }
 }
 

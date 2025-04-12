@@ -18,5 +18,9 @@ public class Settings
     public string LinkedinUrl { get; set; }
     public string WorkingHoursStart { get; set; }
     public string WorkingHoursEnd { get; set; }
+    public string YoutubeVideoUrl { get; set; }
+    public string? WhyUsTitle { get; set; }
+    public string? WhyUsDescription { get; set; }
+    public string? WhyUsImageUrl { get; set; }
 }
 

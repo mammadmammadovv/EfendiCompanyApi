@@ -20,7 +20,8 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                                 PackagesList = '{model.PackagesList}',
                                 ServicesList = '{model.ServicesList}',
                                 StatisticsList = '{model.StatisticsList}',
-                                PricesList = '{model.PricesList}'
+                                PricesList = '{model.PricesList}',
+                                Sign = '{model.Sign}'
                                 ";
 
             await _unitOfWork.GetConnection().QueryAsync(sql, null, _unitOfWork.GetTransaction());
