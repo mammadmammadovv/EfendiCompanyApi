@@ -7,8 +7,8 @@ public static class Statics
     public static bool ProductionMode { get { return true; } }
     public static int HourDifference { get { return ProductionMode ? 4 : 0; } }
     public static OSType OSType { get { return ProductionMode ? OSType.Linux : OSType.Windows; } }
-    public static string BaseUrl { get { return ProductionMode ? "https://efendi-api.azurewebsites.net" : "https://localhost:5001"; } }
-    public static string BaseUIUrl { get { return ProductionMode ? "https://efendi-ui.azurewebsites.net" : "http://localhost:3000"; } }
+    public static string BaseUrl { get { return ProductionMode ? "https://efendigroup-api.azurewebsites.net" : "https://localhost:5001"; } }
+    public static string BaseUIUrl { get { return ProductionMode ? "https://efendigroup-ui.azurewebsites.net" : "http://localhost:3000"; } }
     public static string TgBotKey { get { return ProductionMode ? "6478610429:AAGYsUwCBNcZ3uGMwHEQvcawFT_61wMpz8U" : "5407402992:AAF3Uxx5_Od3KlZw_y4gk2U7wK6a96F6F1s"; } }
     public static string ConnStr { get; set; } = Statics.ConnStrDemo;
     public static string ConnStrPattern { get { return ProductionMode ? "Data Source=./wwwroot/AppData/###.db;Mode=ReadWriteCreate;Cache=Shared;" : "Data Source=./wwwroot/AppData/AppData/###.db;Mode=ReadWriteCreate;Cache=Shared;"; } }
