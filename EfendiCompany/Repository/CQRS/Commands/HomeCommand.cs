@@ -14,21 +14,36 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
     {
         try
         {
-            string sql = $@"UPDATE Home
-                                Set SliderList = '{model.SliderList}',
-                                AdvantagesList = '{model.AdvantagesList}',
-                                PackagesList = '{model.PackagesList}',
-                                ServicesList = '{model.ServicesList}',
-                                StatisticsList = '{model.StatisticsList}',
-                                PricesList = '{model.PricesList}',
-                                Sign = '{model.Sign}'
-                                ";
+            string sql = @"
+            UPDATE Home
+            SET 
+                SliderList = @SliderList,
+                AdvantagesList = @AdvantagesList,
+                PackagesList = @PackagesList,
+                ServicesList = @ServicesList,
+                StatisticsList = @StatisticsList,
+                PricesList = @PricesList,
+                Sign = @Sign";
 
-            await _unitOfWork.GetConnection().QueryAsync(sql, null, _unitOfWork.GetTransaction());
+            var parameters = new
+            {
+                model.SliderList,
+                model.AdvantagesList,
+                model.PackagesList,
+                model.ServicesList,
+                model.StatisticsList,
+                model.PricesList,
+                model.Sign
+            };
+
+            await _unitOfWork
+                .GetConnection()
+                .ExecuteAsync(sql, parameters, _unitOfWork.GetTransaction());
         }
         catch (Exception ex)
         {
-            throw;
+            // Loglama əlavə edə bilərsən buraya
+            throw; // İstəyirsənsə, throw ex; yox, sadəcə throw saxlamaq daha doğrudur (stack trace qorunur)
         }
     }
 }

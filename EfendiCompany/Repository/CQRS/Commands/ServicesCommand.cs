@@ -33,12 +33,11 @@ public class ServicesCommand(IUnitOfWork _unitOfWork) : IServicesCommand
     {
         try
         {
-            string _addSql = $@"INSERT INTO Services(Title,Description,FullDescription,ImageUrl,ImageDetailsUrl)
+            string _addSql = $@"INSERT INTO Services(Title,Description,FullDescription,ImageUrl)
                                 VALUES('{model.Title}',
                                 '{model.Description}',
                                 '{model.FullDescription}',
-                                '{model.ImageUrl}',
-                                '{model.ImageDetailsUrl}')";
+                                '{model.ImageUrl}')";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
@@ -56,8 +55,7 @@ public class ServicesCommand(IUnitOfWork _unitOfWork) : IServicesCommand
                                 Set Title = '{model.Title}',
                                 Description = '{model.Description}',
                                 FullDescription = '{model.FullDescription}',
-                                ImageUrl = '{model.ImageUrl}',
-                                ImageDetailsUrl = '{model.ImageDetailsUrl}'
+                                ImageUrl = '{model.ImageUrl}'
                                 WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());

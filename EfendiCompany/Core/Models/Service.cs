@@ -12,7 +12,6 @@ public class Service
         Description = description;
         FullDescription = fullDescription;
         ImageUrl = imageUrl;
-        ImageDetailsUrl = imageDetailsUrl;
     }
 
     public int Id { get; set; }
@@ -20,7 +19,6 @@ public class Service
     public string Description { get; set; }
     public string FullDescription { get; set; }
     public string ImageUrl { get; set; }
-    public string ImageDetailsUrl { get; set; }
     public bool IsDeleted { get; set; }
     public DateTime CreatedDate { get; set; }
 }
