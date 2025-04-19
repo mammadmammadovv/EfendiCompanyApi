@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\",
+  "WorkspaceRootPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\servicescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\servicescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\servicescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\homecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\homecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\homecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\core\\constants\\statics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\core\\constants\\statics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|solutionrelative:core\\constants\\statics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mamed\\desktop\\efendicompanyapi\\efendicompany\\core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|solutionrelative:core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,63 +52,59 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\ServicesController.cs",
               "RelativeToolTip": "API\\Controllers\\ServicesController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:00:08.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T08:00:08.085Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\HomeCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\HomeCommand.cs",
               "RelativeToolTip": "Repository\\CQRS\\Commands\\HomeCommand.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA7wC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:54:09.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T06:54:09.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\HomeController.cs",
               "RelativeToolTip": "API\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T06:53:59.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T06:53:59.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Statics.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
               "RelativeDocumentMoniker": "Core\\Constants\\Statics.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
               "RelativeToolTip": "Core\\Constants\\Statics.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:10:57.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T08:10:57.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServicesCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ServicesCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ServicesCommand.cs",
               "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ServicesCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ServicesCommand.cs*",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\ServicesCommand.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCcAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ServicesCommand.cs",
+              "RelativeToolTip": "Repository\\CQRS\\Commands\\ServicesCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T08:05:07.804Z",
               "EditorCaption": ""
@@ -117,14 +113,13 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Service.cs",
+              "DocumentMoniker": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Service.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\Service.cs",
               "RelativeToolTip": "Core\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T08:04:56.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T08:04:56.081Z"
             }
           ]
         }
