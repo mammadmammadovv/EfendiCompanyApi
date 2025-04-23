@@ -22,6 +22,9 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                 PackagesList = @PackagesList,
                 ServicesList = @ServicesList,
                 StatisticsList = @StatisticsList,
+                StatisticsTitle = @StatisticsTitle,
+                StatisticsImageUrl = @StatisticsImageUrl,
+                StatisticsDescription = @StatisticsDescription,
                 PricesList = @PricesList,
                 Sign = @Sign";
 
@@ -32,6 +35,9 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                 model.PackagesList,
                 model.ServicesList,
                 model.StatisticsList,
+                model.StatisticsTitle,
+                model.StatisticsImageUrl,
+                model.StatisticsDescription,
                 model.PricesList,
                 model.Sign
             };

@@ -8,6 +8,9 @@ public class Home
     public string PackagesList { get; set; }
     public string ServicesList { get; set; }
     public string StatisticsList { get; set; }
+    public string StatisticsTitle { get; set; }
+    public string StatisticsImageUrl { get; set; }
+    public string StatisticsDescription { get; set; }
     public string PricesList { get; set; }
     public string Sign { get; set; }
 }

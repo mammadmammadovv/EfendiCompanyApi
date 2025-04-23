@@ -672,12 +672,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -864,12 +864,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -883,12 +883,12 @@
         },
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -896,12 +896,12 @@
         "type": "package",
         "compile": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -2506,25 +2506,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mamed\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\n": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Mamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\API\\obj\\",
+      "projectPath": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\API.csproj",
+      "packagesPath": "C:\\n",
+      "outputPath": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mammad.mammadov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2540,11 +2538,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
+            "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Core.csproj"
             },
-            "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Mamed\\Desktop\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj"
+            "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Service.csproj"
             }
           }
         }
@@ -2559,7 +2557,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -2609,7 +2607,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
