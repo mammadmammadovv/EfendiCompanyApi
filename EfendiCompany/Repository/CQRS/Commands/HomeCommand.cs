@@ -48,8 +48,7 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
         }
         catch (Exception ex)
         {
-            // Loglama əlavə edə bilərsən buraya
-            throw; // İstəyirsənsə, throw ex; yox, sadəcə throw saxlamaq daha doğrudur (stack trace qorunur)
+            throw; 
         }
     }
 }
