@@ -16,8 +16,10 @@ public class SettingCommand(IUnitOfWork _unitOfWork) : ISettingCommand
         {
             string _addSql = $@"UPDATE Settings
                                 Set Address = '{model.Address}',
-                                Email = '{model.Email}',
-                                PhoneNumber = '{model.PhoneNumber}',
+                                EmailAz = '{model.EmailAz}',
+                                EmailRu = '{model.EmailRu}',
+                                PhoneNumberSale = '{model.PhoneNumberSale}',
+                                PhoneNumberAuto = '{model.PhoneNumberAuto}',
                                 Fax = '{model.Fax}',
                                 ZipCode = '{model.ZipCode}',
                                 LogoUrl = '{model.LogoUrl}',

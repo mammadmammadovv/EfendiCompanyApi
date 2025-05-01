@@ -4,8 +4,10 @@ public class Settings
 {
     public int Id { get; set; }
     public string Address { get; set; }
-    public string Email { get; set; }
-    public string PhoneNumber { get; set; }
+    public string EmailAz { get; set; }
+    public string EmailRu { get; set; }
+    public string PhoneNumberSale { get; set; }
+    public string PhoneNumberAuto { get; set; }
     public string Fax { get; set; }
     public string ZipCode { get; set; }
     public string LogoUrl { get; set; }
