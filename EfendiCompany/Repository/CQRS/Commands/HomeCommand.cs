@@ -26,6 +26,7 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                 StatisticsImageUrl = @StatisticsImageUrl,
                 StatisticsDescription = @StatisticsDescription,
                 PricesList = @PricesList,
+                CertificatesList = @CertificatesList,
                 Sign = @Sign";
 
             var parameters = new
@@ -39,6 +40,7 @@ public class HomeCommand(IUnitOfWork _unitOfWork) : IHomeCommand
                 model.StatisticsImageUrl,
                 model.StatisticsDescription,
                 model.PricesList,
+                model.CertificatesList,
                 model.Sign
             };
 

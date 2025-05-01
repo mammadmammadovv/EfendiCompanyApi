@@ -12,6 +12,7 @@ public class Home
     public string StatisticsImageUrl { get; set; }
     public string StatisticsDescription { get; set; }
     public string PricesList { get; set; }
+    public string CertificatesList { get; set; }
     public string Sign { get; set; }
 }
 
