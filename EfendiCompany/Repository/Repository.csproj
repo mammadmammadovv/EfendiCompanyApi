@@ -16,4 +16,12 @@
     <ProjectReference Include="..\Core\Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\mammad.mammadov\source\repos\EfendiCompanyApi\EfendiCompany\Repository\Repositories\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\mammad.mammadov\source\repos\EfendiCompanyApi\EfendiCompany\Repository\Repositories\.editorconfig" />
+  </ItemGroup>
+
 </Project>

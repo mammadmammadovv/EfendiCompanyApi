@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class CarModel
+public class SparePart
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public int BrandId { get; set; }
-    public DateTime? StartYear { get; set; }
-    public string LogoUrl { get; set; }
+    public int ModelId { get; set; }
+    public string? PartNumber { get; set; }
+    public decimal Price { get; set; }
+    public int InStock { get; set; }
+    public string ImageUrl { get; set; }
     public bool IsDeleted { get; set; }
     public DateTime CreatedDate { get; set; }
 }
