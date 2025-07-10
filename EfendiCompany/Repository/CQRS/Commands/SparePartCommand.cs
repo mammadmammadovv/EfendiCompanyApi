@@ -59,7 +59,8 @@ public class SparePartCommand(IUnitOfWork _unitOfWork) : ISparePartCommand
                                 PartNumber = '{model.PartNumber}',
                                 Price = '{model.Price}',
                                 InStock = '{model.InStock}',
-                                ImageUrl = '{model.ImageUrl}'";
+                                ImageUrl = '{model.ImageUrl}'
+                                WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }

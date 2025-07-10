@@ -55,7 +55,8 @@ public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
                                 Set Name = '{model.Name}',
                                 BrandId = '{model.BrandId}',
                                 StartYear = '{model.StartYear}',
-                                LogoUrl = '{model.LogoUrl}'";
+                                LogoUrl = '{model.LogoUrl}'
+                                WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }

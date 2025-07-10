@@ -53,7 +53,8 @@ public class CarBrandCommand(IUnitOfWork _unitOfWork) : ICarBrandCommand
             string _addSql = $@"UPDATE CarBrands
                                 Set Name = '{model.Name}',
                                 Country = '{model.Country}',
-                                LogoUrl = '{model.LogoUrl}'";
+                                LogoUrl = '{model.LogoUrl}'
+                                WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
