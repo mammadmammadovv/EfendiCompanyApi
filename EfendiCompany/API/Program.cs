@@ -12,10 +12,9 @@ builder.Services.AddCors(options =>
     options.AddPolicy("EnableCORS", builder =>
     {
         builder
+     .WithOrigins("https://efendigroup.az")
      .AllowAnyHeader()
-     .AllowAnyMethod()
-     .AllowAnyOrigin()
-     .Build();
+     .AllowAnyMethod();
     });
 });
 builder.Services.AddControllers();
@@ -41,9 +40,10 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-app.UseCors("EnableCORS");
 app.UseHttpsRedirection();
-app.UseStaticFiles();
+app.UseStaticFiles(); 
+app.UseRouting();
+app.UseCors("EnableCORS");
 app.UseAuthorization();
 app.MapControllers();
 
