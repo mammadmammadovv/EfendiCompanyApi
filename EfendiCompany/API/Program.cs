@@ -12,8 +12,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("EnableCORS", builder =>
     {
         builder
-     .WithOrigins("https://efendigroup.az")
      .AllowAnyHeader()
+     .AllowAnyOrigin()
      .AllowAnyMethod();
     });
 });

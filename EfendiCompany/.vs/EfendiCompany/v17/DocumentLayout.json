@@ -7,48 +7,44 @@
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\carbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\carbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\sparepartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\sparepartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\core\\constants\\statics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|solutionrelative:core\\constants\\statics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\carmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\carmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\contactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\contactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\repositories\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\startupextensions\\projectdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\startupextensions\\projectdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\carbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\carbrandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\carbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\carbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\carmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\carmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\repository\\cqrs\\commands\\blogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B01E74A-9409-4F1F-A9A0-0A576F18C1C7}|Repository\\Repository.csproj|solutionrelative:repository\\cqrs\\commands\\blogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|solutionrelative:service\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\service\\services\\carbrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7FAA6F5-AB15-49BB-87A5-9F3DA6758B98}|Service\\Service.csproj|solutionrelative:service\\services\\carbrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\core\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|solutionrelative:core\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\core\\models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB3CAEA7-D132-4D62-9921-822F8C995DB6}|Core\\Core.csproj|solutionrelative:core\\models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|c:\\users\\mammad.mammadov\\source\\repos\\efendicompanyapi\\efendicompany\\api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFF68C5-4548-43C8-940C-46298D50CE69}|API\\API.csproj|solutionrelative:api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,158 +82,144 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T06:14:22.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\StartUpExtensions\\ProjectDependencies.cs",
+              "RelativeDocumentMoniker": "API\\StartUpExtensions\\ProjectDependencies.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\StartUpExtensions\\ProjectDependencies.cs",
+              "RelativeToolTip": "API\\StartUpExtensions\\ProjectDependencies.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:13:42.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository\\Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:03:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\ImageService.cs",
+              "RelativeToolTip": "Service\\Services\\ImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:50:12.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Statics.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
+              "RelativeDocumentMoniker": "Core\\Constants\\Statics.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Constants\\Statics.cs",
+              "RelativeToolTip": "Core\\Constants\\Statics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:47:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarModelCommand.cs",
+              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\CarModelCommand.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarModelCommand.cs",
+              "RelativeToolTip": "Repository\\CQRS\\Commands\\CarModelCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:46:05.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBrandCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarBrandCommand.cs",
+              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\CarBrandCommand.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarBrandCommand.cs",
+              "RelativeToolTip": "Repository\\CQRS\\Commands\\CarBrandCommand.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T13:41:17.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:14:02.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SparePartCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\SparePartCommand.cs",
-              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\SparePartCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\SparePartCommand.cs",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\SparePartCommand.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vz4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:36:06.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ContactCommand.cs",
-              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\ContactCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\ContactCommand.cs",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\ContactCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:35:40.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\BlogCommand.cs",
-              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\BlogCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\BlogCommand.cs",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\BlogCommand.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwDsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:17:59.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarBrandCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarBrandCommand.cs",
-              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\CarBrandCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarBrandCommand.cs",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\CarBrandCommand.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:14:57.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BlogsController.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\BlogsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BlogsController.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\BlogsController.cs",
-              "RelativeToolTip": "API\\Controllers\\BlogsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:15:29.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CarBrandService.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\CarBrandService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\CarBrandService.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Service\\Services\\CarBrandService.cs",
-              "RelativeToolTip": "Service\\Services\\CarBrandService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:14:33.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarModelsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\CarModelsController.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarModelsController.cs",
-              "RelativeToolTip": "API\\Controllers\\CarModelsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T13:12:58.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarModelCommand.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarModelCommand.cs",
-              "RelativeDocumentMoniker": "Repository\\CQRS\\Commands\\CarModelCommand.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\CQRS\\Commands\\CarModelCommand.cs",
-              "RelativeToolTip": "Repository\\CQRS\\Commands\\CarModelCommand.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAD4vzgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T11:35:41.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SparePart.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\SparePart.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\SparePart.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\SparePart.cs",
-              "RelativeToolTip": "Core\\Models\\SparePart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:17:20.609Z",
+              "WhenOpened": "2025-07-10T12:56:28.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repositories\\.editorconfig",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\.editorconfig",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Repository\\Repositories\\.editorconfig",
+              "RelativeToolTip": "Repository\\Repositories\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-11T06:14:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CarBrandsController.cs",
               "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarBrandsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CarBrandsController.cs",
               "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarBrandsController.cs",
               "RelativeToolTip": "API\\Controllers\\CarBrandsController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T05:19:32.824Z",
+              "WhenOpened": "2025-07-10T13:27:48.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CarModel.cs",
-              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\CarModel.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\CarModel.cs",
-              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\Core\\Models\\CarModel.cs",
-              "RelativeToolTip": "Core\\Models\\CarModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Title": "CarModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarModelsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CarModelsController.cs",
+              "ToolTip": "C:\\Users\\mammad.mammadov\\source\\repos\\EfendiCompanyApi\\EfendiCompany\\API\\Controllers\\CarModelsController.cs",
+              "RelativeToolTip": "API\\Controllers\\CarModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:00:18.046Z",
+              "WhenOpened": "2025-07-10T12:56:27.841Z",
               "EditorCaption": ""
             }
           ]
