@@ -33,13 +33,16 @@ public class SparePartCommand(IUnitOfWork _unitOfWork) : ISparePartCommand
     {
         try
         {
-            string _addSql = $@"INSERT INTO SpareParts(Name,ModelId,PartNumber,Price,InStock,ImageUrl)
+            string _addSql = $@"INSERT INTO SpareParts(Name,ModelId,PartNumber,Price,InStock,ImageUrl,PartCount,Condition,Category)
                                 VALUES('{model.Name}',
                                 '{model.ModelId}',
                                 '{model.PartNumber}',
                                 '{model.Price}',
                                 '{model.InStock}',
-                                '{model.ImageUrl}')";
+                                '{model.ImageUrl}',
+                                '{model.PartCount}',   
+                                '{model.Condition}',      
+                                '{model.Category}')";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
@@ -59,7 +62,10 @@ public class SparePartCommand(IUnitOfWork _unitOfWork) : ISparePartCommand
                                 PartNumber = '{model.PartNumber}',
                                 Price = '{model.Price}',
                                 InStock = '{model.InStock}',
-                                ImageUrl = '{model.ImageUrl}'
+                                ImageUrl = '{model.ImageUrl}',
+                                PartCount = '{model.PartCount}',
+                                Condition = '{model.Condition}',
+                                Category = '{model.Category}'
                                 WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
