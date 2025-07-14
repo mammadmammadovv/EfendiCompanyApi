@@ -13,6 +13,11 @@ public class SparePart
     public decimal Price { get; set; }
     public int InStock { get; set; }
     public string ImageUrl { get; set; }
+    public int PartCount { get; set; }
+    public string Condition { get; set; }
+    public int Category { get; set; }
+    public int CarBrand { get; set; }
+    public int CarModel { get; set; }
     public bool IsDeleted { get; set; }
     public DateTime CreatedDate { get; set; }
 }
