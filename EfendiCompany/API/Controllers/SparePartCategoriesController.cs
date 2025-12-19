@@ -32,7 +32,7 @@ public class SparePartCategoriesController(ISparePartCategoryService _service) :
     }
 
     [HttpGet("GetAll")]
-    public async Task<IActionResult> GetAll()
+    public async Task<IActionResult> GetAll() 
     {
         var result = await _service.GetAllAsync();
         return Ok(result);
