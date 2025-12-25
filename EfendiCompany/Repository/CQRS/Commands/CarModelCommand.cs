@@ -33,11 +33,15 @@ public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
     {
         try
         {
-            string _addSql = $@"INSERT INTO CarModels(Name,BrandId,StartYear,LogoUrl)
+            string _addSql = $@"INSERT INTO CarModels(Name,BrandId,StartYear,LogoUrl,Condition,FuelType,EnginePower,StartingPrice)
                                 VALUES('{model.Name}',
                                 '{model.BrandId}',
                                 '{model.StartYear}',
-                                '{model.LogoUrl}')";
+                                '{model.LogoUrl}',
+                                '{model.Condition}',
+                                '{model.FuelType}',
+                                '{model.EnginePower}',
+                                '{model.StartingPrice}')";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
         }
@@ -55,7 +59,11 @@ public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
                                 Set Name = '{model.Name}',
                                 BrandId = '{model.BrandId}',
                                 StartYear = '{model.StartYear}',
-                                LogoUrl = '{model.LogoUrl}'
+                                StartYear = '{model.LogoUrl}',
+                                StartYear = '{model.Condition}',
+                                StartYear = '{model.FuelType}',
+                                StartYear = '{model.EnginePower}',
+                                LogoUrl = '{model.StartingPrice}'
                                 WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
