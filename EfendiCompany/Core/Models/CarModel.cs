@@ -13,4 +13,5 @@ public class CarModel
     public string? StartingPrice { get; set; }
     public bool IsDeleted { get; set; }
     public DateTime CreatedDate { get; set; }
+    public List<CarModelImage> Images { get; set; } = new List<CarModelImage>();
 }

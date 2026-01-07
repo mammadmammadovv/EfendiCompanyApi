@@ -11,12 +11,15 @@ public interface ICarModelCommand
     Task DeleteAsync(int id);
 }
 
-public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
+public class CarModelCommand(IUnitOfWork _unitOfWork, ICarModelImageCommand _imageCommand) : ICarModelCommand
 {
     public async Task DeleteAsync(int id)
     {
         try
         {
+            // Delete images first
+            await _imageCommand.DeleteByCarModelIdAsync(id);
+            
             string _addSql = $@"UPDATE CarModels
                                 Set IsDeleted = 1
                                 WHERE Id = {id}";
@@ -43,7 +46,21 @@ public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
                                 '{model.EnginePower}',
                                 '{model.StartingPrice}')";
 
-            await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
+            await _unitOfWork.GetConnection().ExecuteAsync(_addSql, null, _unitOfWork.GetTransaction());
+            
+            // Get the last inserted ID
+            string _getIdSql = @"SELECT last_insert_rowid()";
+            var insertedId = await _unitOfWork.GetConnection().QueryFirstOrDefaultAsync<int>(_getIdSql, null, _unitOfWork.GetTransaction());
+            
+            // Save images if provided
+            if (model.Images != null && model.Images.Any())
+            {
+                foreach (var image in model.Images)
+                {
+                    image.CarModelId = insertedId;
+                    await _imageCommand.PostAsync(image);
+                }
+            }
         }
         catch (Exception ex)
         {
@@ -59,14 +76,31 @@ public class CarModelCommand(IUnitOfWork _unitOfWork) : ICarModelCommand
                                 Set Name = '{model.Name}',
                                 BrandId = '{model.BrandId}',
                                 StartYear = '{model.StartYear}',
-                                StartYear = '{model.LogoUrl}',
-                                StartYear = '{model.Condition}',
-                                StartYear = '{model.FuelType}',
-                                StartYear = '{model.EnginePower}',
-                                LogoUrl = '{model.StartingPrice}'
+                                LogoUrl = '{model.LogoUrl}',
+                                Condition = '{model.Condition}',
+                                FuelType = '{model.FuelType}',
+                                EnginePower = '{model.EnginePower}',
+                                StartingPrice = '{model.StartingPrice}'
                                 WHERE Id = {model.Id}";
 
             await _unitOfWork.GetConnection().QueryAsync(_addSql, null, _unitOfWork.GetTransaction());
+            
+            // Handle images: delete existing and insert new ones
+            if (model.Images != null)
+            {
+                // Delete existing images
+                await _imageCommand.DeleteByCarModelIdAsync(model.Id);
+                
+                // Insert new images
+                if (model.Images.Any())
+                {
+                    foreach (var image in model.Images)
+                    {
+                        image.CarModelId = model.Id;
+                        await _imageCommand.PostAsync(image);
+                    }
+                }
+            }
         }
         catch (Exception ex)
         {
